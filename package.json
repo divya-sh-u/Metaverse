@@ -1,0 +1,22 @@
+{
+  "name": "metaverse",
+  "version": "1.0.0",
+  "description": "\"this is my first metaverse project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divya-sh-u/-Metaverse.git"
+  },
+  "author": "divyanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divya-sh-u/-Metaverse/issues"
+  },
+  "homepage": "https://github.com/divya-sh-u/-Metaverse#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0"
+  }
+}
